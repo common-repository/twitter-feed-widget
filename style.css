@@ -1,0 +1,17 @@
+/* CSS Document */
+.tsm_twitter_feed_widget ul {
+	list-style:none !important;
+	margin:0 10px ;
+	display:block !important;
+}
+.tsm_twitter_feed_widget ul li { line-height:1.5 ; }
+.tsm_twitter_feed_widget ul li a {
+	display:inline !important;
+	border:none !important;
+	padding:0 !important;
+}
+.twitter-box { padding:0px ; }
+.twitter-box li {
+	margin:5px 0 0 0 ;
+	padding:0px ;
+}
